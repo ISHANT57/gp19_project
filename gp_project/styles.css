@@ -1,0 +1,70 @@
+body {
+    align-content:center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #a4a4c0;
+    color: #290e0e;
+    background-size:cover;
+    background-image: url("three.jpg");
+
+
+}
+
+h1, h2 {
+    color: #47110f;
+}
+
+label, input, button {
+    color: #083130;
+    margin: 5px 0;
+}
+input{
+    color:black
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #2376ad;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #103b57;
+}
+
+.matrix-input {
+    width: 50px;
+    margin-right: 10px;
+    
+}
+
+pre {
+    background-color: #b8d6de;
+    padding: 40px;
+    border-color:#0c022c;
+    overflow-x: auto;
+    margin-left: 200px;
+    margin-right: 250px;
+}
+
+.matrix {
+    font-family: monospace;
+    color: #16a085;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
